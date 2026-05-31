@@ -1,0 +1,7 @@
+{
+  "output_pdf": "/home/user/dtrs_impl/sample_run/output_en.pdf",
+  "source_pdf": "/home/user/dtrs_impl/sample_input/source.pdf",
+  "target_lang": "en",
+  "ocr_backend": "tesseract",
+  "page_count": 13
+}

@@ -1,0 +1,5056 @@
+{
+  "source_pdf": "/home/user/dtrs_impl/sample_input/source.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_001.png",
+      "text_spans": [
+        {
+          "text": "DTRS: Document",
+          "bbox": [
+            300.0,
+            63.0,
+            1015.0,
+            134.0
+          ],
+          "page_no": 1,
+          "confidence": 0.935,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 80.5,
+          "char_spacing": 0.0,
+          "line_height": 96.6,
+          "translated_text": "DTRS: Document",
+          "extra": {}
+        },
+        {
+          "text": "Translation and",
+          "bbox": [
+            325.0,
+            190.0,
+            984.0,
+            264.0
+          ],
+          "page_no": 1,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 78.45,
+          "char_spacing": 0.0,
+          "line_height": 100.74,
+          "translated_text": "Translation and",
+          "extra": {}
+        },
+        {
+          "text": "Reconstruction System",
+          "bbox": [
+            178.0,
+            323.0,
+            1156.0,
+            530.9
+          ],
+          "page_no": 1,
+          "confidence": 0.955,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 83.16,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "Reconstruction\nSystem",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM LABORATORY",
+          "bbox": [
+            397.0,
+            499.0,
+            951.0,
+            532.0
+          ],
+          "page_no": 1,
+          "confidence": 0.935,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 36.8,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "DLEGOREAM LABORATORY",
+          "extra": {}
+        },
+        {
+          "text": "BY",
+          "bbox": [
+            466.0,
+            888.0,
+            882.0,
+            1133.0
+          ],
+          "page_no": 1,
+          "confidence": 0.63,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 280.59999999999997,
+          "char_spacing": 0.0,
+          "line_height": 336.72,
+          "translated_text": "BY",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            389.0,
+            1122.0,
+            968.0,
+            1203.0
+          ],
+          "page_no": 1,
+          "confidence": 0.91,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 92.0,
+          "char_spacing": 0.0,
+          "line_height": 110.4,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "— LABORATORY —",
+          "bbox": [
+            433.0,
+            1219.0,
+            931.0,
+            1251.0
+          ],
+          "page_no": 1,
+          "confidence": 0.84,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": "— LABORATORY —",
+          "extra": {}
+        }
+      ],
+      "tables": [
+        {
+          "bbox": [
+            556,
+            895,
+            821,
+            1124
+          ],
+          "page_no": 1,
+          "rows": 1,
+          "cols": 1,
+          "cells": [
+            {
+              "row": 0,
+              "col": 0,
+              "bbox": [
+                466.0,
+                888.0,
+                882.0,
+                1133.0
+              ],
+              "text": "BY"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_001_background.png"
+    },
+    {
+      "page_no": 2,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_002.png",
+      "text_spans": [
+        {
+          "text": "문 제 인 식 : 문 서 스 캔 은 편 리 하 지만 용 량 이 크 고 화 질 이 안 좋 다 는 제",
+          "bbox": [
+            61.0,
+            102.0,
+            1240.0,
+            167.55
+          ],
+          "page_no": 2,
+          "confidence": 0.9248148148148149,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 26.22,
+          "char_spacing": 0.0,
+          "line_height": 52.44,
+          "translated_text": "Problem recognition: Scanning documents is convenient, but the\ncapacity is large and the image quality is poor.",
+          "extra": {}
+        },
+        {
+          "text": "문",
+          "bbox": [
+            1166.0,
+            126.0,
+            1202.0,
+            144.0
+          ],
+          "page_no": 2,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 16.07,
+          "char_spacing": 0.0,
+          "line_height": 23.46,
+          "translated_text": "door",
+          "extra": {}
+        },
+        {
+          "text": "=",
+          "bbox": [
+            450.0,
+            167.0,
+            486.0,
+            186.0
+          ],
+          "page_no": 2,
+          "confidence": 0.13,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "<r",
+          "bbox": [
+            454.0,
+            190.0,
+            482.0,
+            204.0
+          ],
+          "page_no": 2,
+          "confidence": 0.81,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 14.95,
+          "char_spacing": 0.0,
+          "line_height": 17.94,
+          "translated_text": "<r",
+          "extra": {}
+        },
+        {
+          "text": "a",
+          "bbox": [
+            497.0,
+            812.0,
+            558.0,
+            895.0
+          ],
+          "page_no": 2,
+          "confidence": 0.53,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 93.14999999999999,
+          "char_spacing": 0.0,
+          "line_height": 111.78,
+          "translated_text": "a",
+          "extra": {}
+        },
+        {
+          "text": "= =",
+          "bbox": [
+            437.0,
+            974.0,
+            903.0,
+            986.0
+          ],
+          "page_no": 2,
+          "confidence": 0.41,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 12.649999999999999,
+          "char_spacing": 0.0,
+          "line_height": 15.18,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "LEGOREA",
+          "bbox": [
+            444.0,
+            1008.0,
+            874.0,
+            1055.0
+          ],
+          "page_no": 2,
+          "confidence": 0.88,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 52.9,
+          "char_spacing": 0.0,
+          "line_height": 63.48,
+          "translated_text": "LEGOREA",
+          "extra": {}
+        },
+        {
+          "text": "— LABORATORY —",
+          "bbox": [
+            418.0,
+            1071.0,
+            916.0,
+            1103.0
+          ],
+          "page_no": 2,
+          "confidence": 0.84,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": "— LABORATORY —",
+          "extra": {}
+        }
+      ],
+      "tables": [
+        {
+          "bbox": [
+            541,
+            747,
+            806,
+            976
+          ],
+          "page_no": 2,
+          "rows": 1,
+          "cols": 1,
+          "cells": []
+        }
+      ],
+      "equations": [
+        {
+          "bbox": [
+            450.0,
+            167.0,
+            486.0,
+            186.0
+          ],
+          "page_no": 2,
+          "latex": "=",
+          "confidence": 0.13
+        },
+        {
+          "bbox": [
+            437.0,
+            974.0,
+            903.0,
+            986.0
+          ],
+          "page_no": 2,
+          "latex": "= =",
+          "confidence": 0.41
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_002_background.png"
+    },
+    {
+      "page_no": 3,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_003.png",
+      "text_spans": [
+        {
+          "text": "BY",
+          "bbox": [
+            451.0,
+            740.0,
+            867.0,
+            985.0
+          ],
+          "page_no": 3,
+          "confidence": 0.63,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 280.59999999999997,
+          "char_spacing": 0.0,
+          "line_height": 336.72,
+          "translated_text": "BY",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            374.0,
+            974.0,
+            953.0,
+            1055.0
+          ],
+          "page_no": 3,
+          "confidence": 0.91,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 92.0,
+          "char_spacing": 0.0,
+          "line_height": 110.4,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "—LABORATORY —",
+          "bbox": [
+            419.0,
+            1071.0,
+            914.0,
+            1103.0
+          ],
+          "page_no": 3,
+          "confidence": 0.75,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": "—LABORATORY—",
+          "extra": {}
+        }
+      ],
+      "tables": [
+        {
+          "bbox": [
+            541,
+            747,
+            806,
+            976
+          ],
+          "page_no": 3,
+          "rows": 1,
+          "cols": 1,
+          "cells": [
+            {
+              "row": 0,
+              "col": 0,
+              "bbox": [
+                451.0,
+                740.0,
+                867.0,
+                985.0
+              ],
+              "text": "BY"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_003_background.png"
+    },
+    {
+      "page_no": 4,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_004.png",
+      "text_spans": [
+        {
+          "text": "초록 (Abstract)",
+          "bbox": [
+            61.0,
+            105.0,
+            346.0,
+            151.0
+          ],
+          "page_no": 4,
+          "confidence": 0.715,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 51.74999999999999,
+          "char_spacing": 0.0,
+          "line_height": 62.1,
+          "translated_text": "Abstract",
+          "extra": {}
+        },
+        {
+          "text": "스 템 은",
+          "bbox": [
+            475.0,
+            168.0,
+            564.0,
+            239.0
+          ],
+          "page_no": 4,
+          "confidence": 0.9333333333333332,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.7,
+          "char_spacing": 0.0,
+          "line_height": 41.4,
+          "translated_text": "Stem\nis",
+          "extra": {}
+        },
+        {
+          "text": "기존 OCR 기반 문서 번역 시 텍스트 내 용 을 다른 언 어 로 변 환 할 수 있으나",
+          "bbox": [
+            62.0,
+            189.0,
+            1230.0,
+            242.75
+          ],
+          "page_no": 4,
+          "confidence": 0.9410526315789474,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.5,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "When translating existing OCR-based documents, text\ncontent can be converted to another language.",
+          "extra": {}
+        },
+        {
+          "text": "번역 an 폰트, 표 , 수식, | 그래프 및 문서 레이아웃 정 보 가 손 실 되는 문 제 가 존",
+          "bbox": [
+            64.0,
+            244.0,
+            1244.0,
+            387.175
+          ],
+          "page_no": 4,
+          "confidence": 0.9023809523809524,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 57.27,
+          "char_spacing": 0.0,
+          "line_height": 114.54,
+          "translated_text": "Translation an font, table, formula, | An issue exists where\ngraph and document layout information is lost.",
+          "extra": {}
+        },
+        {
+          "text": "는 Zz",
+          "bbox": [
+            353.0,
+            309.0,
+            1244.0,
+            327.0
+          ],
+          "page_no": 4,
+          "confidence": 0.77,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 19.549999999999997,
+          "char_spacing": 0.0,
+          "line_height": 23.46,
+          "translated_text": "is Zz",
+          "extra": {}
+        },
+        {
+          "text": "본 연 구 에서는 문서 구조 PES 번역 프 레 임 워 크 인 DTRS(Document",
+          "bbox": [
+            61.0,
+            422.0,
+            1088.0,
+            484.1
+          ],
+          "page_no": 4,
+          "confidence": 0.8866666666666667,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 24.84,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "In this study, the document structure PES\ntranslation framework, DTRS (Document",
+          "extra": {}
+        },
+        {
+          "text": "Translation and Reconstruction System) 제 안 한 다. DTRSE OCR, 문서 구",
+          "bbox": [
+            60.0,
+            479.0,
+            1239.0,
+            546.475
+          ],
+          "page_no": 4,
+          "confidence": 0.8016666666666667,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 26.99,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Translation and Reconstruction System) is\nproposed. DTRSE OCR, document rescue",
+          "extra": {}
+        },
+        {
+          "text": "조 분석, 폰트 추정, 표 인식, 수식 재구성, 배경 복원 미 레이아웃 i 로 적 알고 고 리 즘 =I",
+          "bbox": [
+            61.0,
+            541.0,
+            1231.0,
+            696.25
+          ],
+          "page_no": 4,
+          "confidence": 0.8615,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "Text analysis, font estimation, table recognition, formula\nreconstruction, background restoration, layout i, algorithm = I",
+          "extra": {}
+        },
+        {
+          "text": "수 및 i rot",
+          "bbox": [
+            476.0,
+            561.0,
+            1113.0,
+            738.725
+          ],
+          "page_no": 4,
+          "confidence": 0.64,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 71.09,
+          "char_spacing": 0.0,
+          "line_height": 100.74,
+          "translated_text": "number and i\nrot",
+          "extra": {}
+        },
+        {
+          "text": "합하여 원본 EAS 시각적 PAS 유 지 한 SHS 다국어 번역 mulo 모",
+          "bbox": [
+            62.0,
+            604.0,
+            1130.0,
+            662.85
+          ],
+          "page_no": 4,
+          "confidence": 0.8415384615384615,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 23.54,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Combined original EAS visual PAS maintained SHS\nmultilingual translation mulo mod",
+          "extra": {}
+        },
+        {
+          "text": "안 된 스 은 이 적 / 체 의",
+          "bbox": [
+            96.0,
+            644.0,
+            1121.0,
+            714.0
+          ],
+          "page_no": 4,
+          "confidence": 0.8633333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The unfinished business has been transferred to",
+          "extra": {}
+        },
+        {
+          "text": "제 시 템 SME 단순한 텍스트 Al 합 아닌 구 조 시 각 적 객 SO",
+          "bbox": [
+            61.0,
+            663.0,
+            1238.0,
+            734.975
+          ],
+          "page_no": 4,
+          "confidence": 0.85375,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 28.79,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "My system SME is not a simple text Al, but a structural\nvisual target SO.",
+          "extra": {}
+        },
+        {
+          "text": "집",
+          "bbox": [
+            640.0,
+            681.0,
+            662.0,
+            694.0
+          ],
+          "page_no": 4,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 8.28,
+          "char_spacing": 0.0,
+          "line_height": 16.56,
+          "translated_text": "house",
+          "extra": {}
+        },
+        {
+          "text": "과 의 를",
+          "bbox": [
+            533.0,
+            703.0,
+            880.0,
+            773.0
+          ],
+          "page_no": 4,
+          "confidence": 0.9566666666666667,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "and of",
+          "extra": {}
+        },
+        {
+          "text": "로 해 석 하며, 번역 이후에도 원 본 유사한 형 태 문 서 자동 생 성 하는 것을 목표",
+          "bbox": [
+            61.0,
+            722.0,
+            1254.0,
+            778.925
+          ],
+          "page_no": 4,
+          "confidence": 0.9373684210526317,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.77,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "The goal is to automatically generate documents similar\nto the original even after translation.",
+          "extra": {}
+        },
+        {
+          "text": "스 의",
+          "bbox": [
+            678.0,
+            763.0,
+            766.0,
+            833.0
+          ],
+          "page_no": 4,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 34.5,
+          "char_spacing": 0.0,
+          "line_height": 41.4,
+          "translated_text": "of",
+          "extra": {}
+        },
+        {
+          "text": "로 한다. 이를 통해 기존 OCR 기반 번역 시 템 한 계 를 극 복 하고, 고품질 문서 재",
+          "bbox": [
+            61.0,
+            782.0,
+            1254.0,
+            838.925
+          ],
+          "page_no": 4,
+          "confidence": 0.9363157894736842,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.77,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "Do this. This overcomes the limitations of existing OCR-based\ntranslation systems and reproduces high-quality documents.",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            531.0,
+            972.0,
+            802.0,
+            994.0
+          ],
+          "page_no": 4,
+          "confidence": 0.9,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 28.98,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "최근 00 기 술 과 대규모 언어 모 델 의 발 전 으로 이미지 Ho 문서 PDF 문 서 의 자동",
+          "bbox": [
+            62.0,
+            1083.0,
+            1231.0,
+            1136.475
+          ],
+          "page_no": 4,
+          "confidence": 0.8790476190476191,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "With recent advances in technology and large-scale language models, the\nautomatic processing of image Ho documents and PDF documents",
+          "extra": {}
+        },
+        {
+          "text": "역 이 가 능 해 지고 있다. 그러나 대 부 분 의 기존 시 스 템 은 BAS 텍스트 중 심 으로",
+          "bbox": [
+            95.0,
+            1142.0,
+            1238.0,
+            1198.7
+          ],
+          "page_no": 4,
+          "confidence": 0.9163636363636364,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.68,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The reverse is becoming possible. However, most existing\nsystems are centered on BAS text.",
+          "extra": {}
+        },
+        {
+          "text": "처 리 하며, 번역 과 정 에서 다양한 시각적 정 보 가 손 실 된다.",
+          "bbox": [
+            62.0,
+            1201.0,
+            887.0,
+            1257.925
+          ],
+          "page_no": 4,
+          "confidence": 0.9226666666666666,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.77,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "processing, and various visual information is\nlost during the translation process.",
+          "extra": {}
+        },
+        {
+          "text": "일반적인 OCR 번역 was 다 음 과 같다.",
+          "bbox": [
+            62.0,
+            1260.0,
+            646.0,
+            1323.6
+          ],
+          "page_no": 4,
+          "confidence": 0.88375,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 25.44,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "A typical OCR translation was\nas follows:",
+          "extra": {}
+        },
+        {
+          "text": "문 서 입력 Lrg",
+          "bbox": [
+            61.0,
+            1324.0,
+            196.0,
+            1377.475
+          ],
+          "page_no": 4,
+          "confidence": 0.87,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Document\nInput Lrg",
+          "extra": {}
+        },
+        {
+          "text": "OCR",
+          "bbox": [
+            62.0,
+            1444.0,
+            131.0,
+            1471.0
+          ],
+          "page_no": 4,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 29.9,
+          "char_spacing": 0.0,
+          "line_height": 35.88,
+          "translated_text": "OCR",
+          "extra": {}
+        },
+        {
+          "text": "번역",
+          "bbox": [
+            64.0,
+            1561.0,
+            121.0,
+            1593.0
+          ],
+          "page_no": 4,
+          "confidence": 0.97,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "translation",
+          "extra": {}
+        },
+        {
+          "text": "텍스트 출력",
+          "bbox": [
+            63.0,
+            1679.0,
+            229.0,
+            1746.375
+          ],
+          "page_no": 4,
+          "confidence": 0.965,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 26.95,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "text\noutput",
+          "extra": {}
+        },
+        {
+          "text": "이 과 정 에서는 다 음 과 같은 문 제 가 발 생 한 다.",
+          "bbox": [
+            63.0,
+            1734.0,
+            705.0,
+            1796.3
+          ],
+          "page_no": 4,
+          "confidence": 0.9306666666666668,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 24.92,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "In this process, the following\nproblems arise.",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            61.0,
+            541.0,
+            1231.0,
+            636.0
+          ],
+          "page_no": 4,
+          "latex": "조 분석, 폰트 추정, 표 인식, 수식 재구성, 배경 복원 미 레이아웃 i 로 적 알고 고 리 즘 =I",
+          "confidence": 0.8615
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_004_background.png"
+    },
+    {
+      "page_no": 5,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_005.png",
+      "text_spans": [
+        {
+          "text": "원본 폰트 정보 손실",
+          "bbox": [
+            158.0,
+            91.0,
+            443.0,
+            144.475
+          ],
+          "page_no": 5,
+          "confidence": 0.9624999999999999,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Loss of original\nfont information",
+          "extra": {}
+        },
+        {
+          "text": "표 구조 붕괴",
+          "bbox": [
+            157.0,
+            151.0,
+            335.0,
+            231.2125
+          ],
+          "page_no": 5,
+          "confidence": 0.9500000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "table\nstructure\ncollapse",
+          "extra": {}
+        },
+        {
+          "text": "수식 왜곡",
+          "bbox": [
+            157.0,
+            210.0,
+            295.0,
+            263.475
+          ],
+          "page_no": 5,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Formula\ndistortion",
+          "extra": {}
+        },
+        {
+          "text": "그래프 정보 손실",
+          "bbox": [
+            157.0,
+            264.0,
+            405.0,
+            317.475
+          ],
+          "page_no": 5,
+          "confidence": 0.9633333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Loss of graph\ninformation",
+          "extra": {}
+        },
+        {
+          "text": "이미지 내부 텍스트 제거 실패",
+          "bbox": [
+            159.0,
+            328.0,
+            584.0,
+            383.8
+          ],
+          "page_no": 5,
+          "confidence": 0.958,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.32,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Failed to remove text\ninside image",
+          "extra": {}
+        },
+        {
+          "text": "문서 레이아웃 붕괴",
+          "bbox": [
+            157.0,
+            384.0,
+            435.0,
+            464.2125
+          ],
+          "page_no": 5,
+          "confidence": 0.9633333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Document\nlayout\ncollapse",
+          "extra": {}
+        },
+        {
+          "text": "따라서 본 연 구 는 의 미 적 번 역 뿐 아니라 문서 구 조 와 시각적 형 태 까지 보 존 하는 문",
+          "bbox": [
+            63.0,
+            499.0,
+            1246.0,
+            531.0
+          ],
+          "page_no": 5,
+          "confidence": 0.9333333333333335,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "따라서 본 연 구 는 의 미 적 번 역 뿐 아니라 문서 구 조 와 시각적 형 태 까지 보 존 하는 문",
+          "extra": {}
+        },
+        {
+          "text": "서 재 구 성 형 번역 시 스 템 을 제 안 한 다",
+          "bbox": [
+            61.0,
+            558.0,
+            589.0,
+            611.475
+          ],
+          "page_no": 5,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "We propose a library-based\ntranslation system",
+          "extra": {}
+        },
+        {
+          "text": "2. 시스템 개요",
+          "bbox": [
+            61.0,
+            706.0,
+            356.0,
+            780.175
+          ],
+          "page_no": 5,
+          "confidence": 0.9633333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.67,
+          "char_spacing": 0.0,
+          "line_height": 59.34,
+          "translated_text": "2. System\noverview",
+          "extra": {}
+        },
+        {
+          "text": "DTRSE EAS 구조적 객 체 의 PHOS 해 석 한 다",
+          "bbox": [
+            62.0,
+            800.0,
+            788.0,
+            874.175
+          ],
+          "page_no": 5,
+          "confidence": 0.8772727272727273,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.67,
+          "char_spacing": 0.0,
+          "line_height": 59.34,
+          "translated_text": "DTRSE EAS interprets PHOS\nstructural objects",
+          "extra": {}
+        },
+        {
+          "text": "과 ~",
+          "bbox": [
+            273.0,
+            843.0,
+            762.0,
+            959.0
+          ],
+          "page_no": 5,
+          "confidence": 0.605,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 127.64999999999999,
+          "char_spacing": 0.0,
+          "line_height": 153.18,
+          "translated_text": "And ~",
+          "extra": {}
+        },
+        {
+          "text": "각 객 체 는 다 음 같은 유 형 으로",
+          "bbox": [
+            62.0,
+            863.0,
+            523.0,
+            917.15
+          ],
+          "page_no": 5,
+          "confidence": 0.932,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.66,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Each object is of the\nfollowing types:",
+          "extra": {}
+        },
+        {
+          "text": "Text Object DLEGOREAM",
+          "bbox": [
+            156.0,
+            972.0,
+            804.0,
+            1012.0
+          ],
+          "page_no": 5,
+          "confidence": 0.9433333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 44.849999999999994,
+          "char_spacing": 0.0,
+          "line_height": 53.82,
+          "translated_text": "Text Object DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "Table Object",
+          "bbox": [
+            156.0,
+            1034.0,
+            361.0,
+            1110.275
+          ],
+          "page_no": 5,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 30.51,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "Table\nObject",
+          "extra": {}
+        },
+        {
+          "text": "Equation Object",
+          "bbox": [
+            158.0,
+            1093.0,
+            415.0,
+            1169.5
+          ],
+          "page_no": 5,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 30.6,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "Equation\nObject",
+          "extra": {}
+        },
+        {
+          "text": "Graph Object",
+          "bbox": [
+            158.0,
+            1153.0,
+            369.0,
+            1231.5
+          ],
+          "page_no": 5,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 31.4,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "Graph\nObject",
+          "extra": {}
+        },
+        {
+          "text": "Image Object",
+          "bbox": [
+            159.0,
+            1212.0,
+            373.0,
+            1291.625
+          ],
+          "page_no": 5,
+          "confidence": 0.955,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 31.85,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "Image\nObject",
+          "extra": {}
+        },
+        {
+          "text": "Layout Object",
+          "bbox": [
+            158.0,
+            1271.0,
+            381.0,
+            1347.575
+          ],
+          "page_no": 5,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 30.63,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "Layout\nObject",
+          "extra": {}
+        },
+        {
+          "text": "시 스 템 은 객체 단위 EAS 수 행 한 후 번역 결 과 를 동일한 PAS 재 배 치 한다.",
+          "bbox": [
+            61.0,
+            1377.0,
+            1183.0,
+            1430.475
+          ],
+          "page_no": 5,
+          "confidence": 0.8890476190476191,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The system performs EAS on an object basis and then rearranges\nthe translation results into the same PAS.",
+          "extra": {}
+        },
+        {
+          "text": "re r 으 프 라 인 은 다 음 과 같다",
+          "bbox": [
+            54.0,
+            1441.0,
+            514.0,
+            1514.35
+          ],
+          "page_no": 5,
+          "confidence": 0.8190909090909091,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.34,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The re r line is as\nfollows:",
+          "extra": {}
+        },
+        {
+          "text": "Ao = re ali",
+          "bbox": [
+            61.0,
+            1500.0,
+            196.0,
+            1554.8
+          ],
+          "page_no": 5,
+          "confidence": 0.635,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 21.92,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Ao =\nre ali",
+          "extra": {}
+        },
+        {
+          "text": "(eo) CR",
+          "bbox": [
+            62.0,
+            1620.0,
+            131.0,
+            1647.0
+          ],
+          "page_no": 5,
+          "confidence": 0.505,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.54,
+          "char_spacing": 0.0,
+          "line_height": 35.88,
+          "translated_text": "(eo)CR",
+          "extra": {}
+        },
+        {
+          "text": "Ho = ou ra AL Iz",
+          "bbox": [
+            61.0,
+            1737.0,
+            271.0,
+            1795.6
+          ],
+          "page_no": 5,
+          "confidence": 0.49500000000000005,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 23.44,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Ho = ou ra\nAL Iz",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            61.0,
+            1500.0,
+            196.0,
+            1532.0
+          ],
+          "page_no": 5,
+          "latex": "Ao = re ali",
+          "confidence": 0.635
+        },
+        {
+          "bbox": [
+            61.0,
+            1737.0,
+            271.0,
+            1769.0
+          ],
+          "page_no": 5,
+          "latex": "Ho = ou ra AL Iz",
+          "confidence": 0.49500000000000005
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_005_background.png"
+    },
+    {
+      "page_no": 6,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_006.png",
+      "text_spans": [
+        {
+          "text": "텍스트 메 타 데 이터 추출",
+          "bbox": [
+            63.0,
+            54.0,
+            406.0,
+            117.8
+          ],
+          "page_no": 6,
+          "confidence": 0.9433333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 25.52,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Text metadata\nextraction",
+          "extra": {}
+        },
+        {
+          "text": "rH \\m 4 x",
+          "bbox": [
+            61.0,
+            173.0,
+            189.0,
+            236.5
+          ],
+          "page_no": 6,
+          "confidence": 0.61,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 25.4,
+          "char_spacing": 0.0,
+          "line_height": 41.4,
+          "translated_text": "rH \\m\n4 x",
+          "extra": {}
+        },
+        {
+          "text": "=",
+          "bbox": [
+            175.0,
+            193.0,
+            197.0,
+            205.0
+          ],
+          "page_no": 6,
+          "confidence": 0.65,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 12.649999999999999,
+          "char_spacing": 0.0,
+          "line_height": 15.18,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "벼 AL aly",
+          "bbox": [
+            61.0,
+            291.0,
+            163.0,
+            344.475
+          ],
+          "page_no": 6,
+          "confidence": 0.64,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Rice\nAL aly",
+          "extra": {}
+        },
+        {
+          "text": "+ iz A & a",
+          "bbox": [
+            61.0,
+            410.0,
+            196.0,
+            485.325
+          ],
+          "page_no": 6,
+          "confidence": 0.65,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 30.13,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "+ iz\nA&a",
+          "extra": {}
+        },
+        {
+          "text": "석",
+          "bbox": [
+            174.0,
+            431.0,
+            196.0,
+            442.0
+          ],
+          "page_no": 6,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 8.0,
+          "char_spacing": 0.0,
+          "line_height": 13.8,
+          "translated_text": "three",
+          "extra": {}
+        },
+        {
+          "text": "텍스트 제거",
+          "bbox": [
+            63.0,
+            528.0,
+            229.0,
+            595.375
+          ],
+          "page_no": 6,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 26.95,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "remove\ntext",
+          "extra": {}
+        },
+        {
+          "text": "뜨 = on 볼 119",
+          "bbox": [
+            63.0,
+            647.0,
+            197.0,
+            700.475
+          ],
+          "page_no": 6,
+          "confidence": 0.704,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "floating = on\nball 119",
+          "extra": {}
+        },
+        {
+          "text": "=",
+          "bbox": [
+            140.0,
+            669.0,
+            162.0,
+            679.0
+          ],
+          "page_no": 6,
+          "confidence": 0.44,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 10.35,
+          "char_spacing": 0.0,
+          "line_height": 12.42,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "번역",
+          "bbox": [
+            64.0,
+            765.0,
+            121.0,
+            797.0
+          ],
+          "page_no": 6,
+          "confidence": 0.97,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "translation",
+          "extra": {}
+        },
+        {
+          "text": "~",
+          "bbox": [
+            589.0,
+            847.0,
+            762.0,
+            959.0
+          ],
+          "page_no": 6,
+          "confidence": 0.58,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 76.59,
+          "char_spacing": 468.0,
+          "line_height": 153.18,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "레이아웃 적응",
+          "bbox": [
+            64.0,
+            884.0,
+            265.0,
+            937.475
+          ],
+          "page_no": 6,
+          "confidence": 0.94,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Layout\nadaptation",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            529.0,
+            972.0,
+            804.0,
+            994.0
+          ],
+          "page_no": 6,
+          "confidence": 0.89,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 28.98,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "\"text\": \"Hello\",",
+          "bbox": [
+            195.0,
+            1705.0,
+            411.0,
+            1765.275
+          ],
+          "page_no": 6,
+          "confidence": 0.8049999999999999,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.11,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "\"text\":\n\"Hello\",",
+          "extra": {}
+        },
+        {
+          "text": "\"x\": 100,",
+          "bbox": [
+            195.0,
+            1755.0,
+            321.0,
+            1817.5
+          ],
+          "page_no": 6,
+          "confidence": 0.885,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 25.0,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "\"x\":\n100;",
+          "extra": {}
+        },
+        {
+          "text": "\"y\": 200,",
+          "bbox": [
+            195.0,
+            1805.0,
+            320.0,
+            1867.0
+          ],
+          "page_no": 6,
+          "confidence": 0.57,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.8,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "\"y\":\n200,",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            61.0,
+            173.0,
+            189.0,
+            205.0
+          ],
+          "page_no": 6,
+          "latex": "rH \\m 4 x",
+          "confidence": 0.61
+        },
+        {
+          "bbox": [
+            175.0,
+            193.0,
+            197.0,
+            205.0
+          ],
+          "page_no": 6,
+          "latex": "=",
+          "confidence": 0.65
+        },
+        {
+          "bbox": [
+            61.0,
+            410.0,
+            196.0,
+            442.0
+          ],
+          "page_no": 6,
+          "latex": "+ iz A & a",
+          "confidence": 0.65
+        },
+        {
+          "bbox": [
+            63.0,
+            647.0,
+            197.0,
+            679.0
+          ],
+          "page_no": 6,
+          "latex": "뜨 = on 볼 119",
+          "confidence": 0.704
+        },
+        {
+          "bbox": [
+            140.0,
+            669.0,
+            162.0,
+            679.0
+          ],
+          "page_no": 6,
+          "latex": "=",
+          "confidence": 0.44
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_006_background.png"
+    },
+    {
+      "page_no": 7,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_007.png",
+      "text_spans": [
+        {
+          "text": "\"rotation\": 0,",
+          "bbox": [
+            195.0,
+            10.0,
+            389.0,
+            71.85
+          ],
+          "page_no": 7,
+          "confidence": 0.9450000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.74,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "\"rotation\":\n0,",
+          "extra": {}
+        },
+        {
+          "text": "\"color\": \"#000000\"",
+          "bbox": [
+            195.0,
+            60.0,
+            487.0,
+            88.0
+          ],
+          "page_no": 7,
+          "confidence": 0.81,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 28.97,
+          "char_spacing": 0.0,
+          "line_height": 37.26,
+          "translated_text": "\"color\": \"#000000\"",
+          "extra": {}
+        },
+        {
+          "text": "}",
+          "bbox": [
+            174.0,
+            109.0,
+            186.0,
+            145.0
+          ],
+          "page_no": 7,
+          "confidence": 0.89,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "때 mi 16 ord 매 Rr 제 0 101",
+          "bbox": [
+            85.0,
+            270.0,
+            824.0,
+            302.0
+          ],
+          "page_no": 7,
+          "confidence": 0.6888888888888889,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "When mi 16 ord every Rr number 0 101",
+          "extra": {}
+        },
+        {
+          "text": "HJ WI 바 {0 더 mM KIO",
+          "bbox": [
+            117.0,
+            418.0,
+            613.0,
+            510.25
+          ],
+          "page_no": 7,
+          "confidence": 0.5342857142857143,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 36.9,
+          "char_spacing": 0.0,
+          "line_height": 60.72,
+          "translated_text": "HJ WI Bar {0 more\nmM KIO",
+          "extra": {}
+        },
+        {
+          "text": "기존 OCR AJAHE Bounding Box 높 이 를 기",
+          "bbox": [
+            62.0,
+            516.0,
+            731.0,
+            578.1
+          ],
+          "page_no": 7,
+          "confidence": 0.8233333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 24.84,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Increase the height of the\nexisting OCR AJAHE Bounding Box",
+          "extra": {}
+        },
+        {
+          "text": "그러나 Bounding Box",
+          "bbox": [
+            61.0,
+            575.0,
+            394.0,
+            645.8
+          ],
+          "page_no": 7,
+          "confidence": 0.9466666666666667,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 28.32,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "However,\nBounding Box",
+          "extra": {}
+        },
+        {
+          "text": "10 고 OK iol 고",
+          "bbox": [
+            62.0,
+            634.0,
+            240.0,
+            687.475
+          ],
+          "page_no": 7,
+          "confidence": 0.678,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "10 go OK\niol go",
+          "extra": {}
+        },
+        {
+          "text": "OH K 50 or",
+          "bbox": [
+            125.0,
+            864.0,
+            260.0,
+            924.275
+          ],
+          "page_no": 7,
+          "confidence": 0.765,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.11,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "OH K\n50 or",
+          "extra": {}
+        },
+        {
+          "text": "이미지 이진화",
+          "bbox": [
+            126.0,
+            923.0,
+            329.0,
+            976.475
+          ],
+          "page_no": 7,
+          "confidence": 0.97,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Image\nbinarization",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            531.0,
+            972.0,
+            802.0,
+            994.0
+          ],
+          "page_no": 7,
+          "confidence": 0.9,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 28.98,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "a 10 i Ra 이 ar zl mil",
+          "bbox": [
+            126.0,
+            1042.0,
+            409.0,
+            1102.15
+          ],
+          "page_no": 7,
+          "confidence": 0.56375,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 24.06,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "a 10 i Ra i ar\nzl mil",
+          "extra": {}
+        },
+        {
+          "text": "o 자 높이 계산",
+          "bbox": [
+            128.0,
+            1101.0,
+            338.0,
+            1154.475
+          ],
+          "page_no": 7,
+          "confidence": 0.9425,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Calculating o\nruler height",
+          "extra": {}
+        },
+        {
+          "text": "rom",
+          "bbox": [
+            125.0,
+            1117.0,
+            154.0,
+            1132.0
+          ],
+          "page_no": 7,
+          "confidence": 0.52,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 16.099999999999998,
+          "char_spacing": 0.0,
+          "line_height": 19.32,
+          "translated_text": "rom",
+          "extra": {}
+        },
+        {
+          "text": "이를 SH 실제 글자 크 기 에 가까운 폰트 크 7 ul KO 10",
+          "bbox": [
+            63.0,
+            1327.0,
+            857.0,
+            1380.475
+          ],
+          "page_no": 7,
+          "confidence": 0.8364285714285715,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "This is SH font size 7 ul KO 10, which is\nclose to the actual font size.",
+          "extra": {}
+        },
+        {
+          "text": "OH RK Air 매 nd Ar Hit or",
+          "bbox": [
+            117.0,
+            1478.0,
+            531.0,
+            1555.625
+          ],
+          "page_no": 7,
+          "confidence": 0.5925,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 31.05,
+          "char_spacing": 0.0,
+          "line_height": 62.1,
+          "translated_text": "OH RK Air every\nnd Ar Hit or",
+          "extra": {}
+        },
+        {
+          "text": "번역 이후 본 레 이 아 웃 을 유지 히 | 기 위 이 해 문자 시 즈 | 좌 표 를 기록한 [ 다.",
+          "bbox": [
+            64.0,
+            1576.0,
+            1072.0,
+            1629.475
+          ],
+          "page_no": 7,
+          "confidence": 0.9076000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Maintain this layout after translation | Kiwi Ihae\nCharacter Shizu | Record the coordinates [C.",
+          "extra": {}
+        },
+        {
+          "text": "rH a 식",
+          "bbox": [
+            212.0,
+            1589.0,
+            811.0,
+            1608.0
+          ],
+          "page_no": 7,
+          "confidence": 0.5733333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": "rH a equation",
+          "extra": {}
+        },
+        {
+          "text": "^ 100",
+          "bbox": [
+            60.0,
+            1697.0,
+            182.0,
+            1724.0
+          ],
+          "page_no": 7,
+          "confidence": 0.925,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 29.9,
+          "char_spacing": 0.0,
+          "line_height": 35.88,
+          "translated_text": "^100",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            60.0,
+            1697.0,
+            182.0,
+            1724.0
+          ],
+          "page_no": 7,
+          "latex": "^ 100",
+          "confidence": 0.925
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_007_background.png"
+    },
+    {
+      "page_no": 8,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_008.png",
+      "text_spans": [
+        {
+          "text": "입력:",
+          "bbox": [
+            62.0,
+            537.0,
+            132.0,
+            569.0
+          ],
+          "page_no": 8,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "input:",
+          "extra": {}
+        },
+        {
+          "text": "HELLO",
+          "bbox": [
+            63.0,
+            598.0,
+            170.0,
+            625.0
+          ],
+          "page_no": 8,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 29.9,
+          "char_spacing": 0.0,
+          "line_height": 35.88,
+          "translated_text": "HELLO",
+          "extra": {}
+        },
+        {
+          "text": "출력:",
+          "bbox": [
+            61.0,
+            655.0,
+            132.0,
+            708.475
+          ],
+          "page_no": 8,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "output of\npower:",
+          "extra": {}
+        },
+        {
+          "text": "Arial (93%)",
+          "bbox": [
+            60.0,
+            715.0,
+            235.0,
+            786.025
+          ],
+          "page_no": 8,
+          "confidence": 0.95,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 28.41,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Arial\n(93%)",
+          "extra": {}
+        },
+        {
+          "text": "또는",
+          "bbox": [
+            61.0,
+            775.0,
+            123.0,
+            805.0
+          ],
+          "page_no": 8,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 33.349999999999994,
+          "char_spacing": 0.0,
+          "line_height": 40.02,
+          "translated_text": "or",
+          "extra": {}
+        },
+        {
+          "text": "Noto Sans (89%)",
+          "bbox": [
+            63.0,
+            833.0,
+            332.0,
+            913.05
+          ],
+          "page_no": 8,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 32.02,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Noto Sans\n(89%)",
+          "extra": {}
+        },
+        {
+          "text": "는 f",
+          "bbox": [
+            200.0,
+            867.0,
+            762.0,
+            934.0
+          ],
+          "page_no": 8,
+          "confidence": 0.61,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 75.89999999999999,
+          "char_spacing": 0.0,
+          "line_height": 91.08,
+          "translated_text": "is f",
+          "extra": {}
+        },
+        {
+          "text": "예측 결 과 문서 재구성 단 계 에서 A",
+          "bbox": [
+            62.0,
+            892.0,
+            588.0,
+            945.475
+          ],
+          "page_no": 8,
+          "confidence": 0.9166666666666666,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "In the prediction result document\nreconstruction stage, A",
+          "extra": {}
+        },
+        {
+          "text": "이를 통해 원본 문 서 와 유사한 시 각 적 표 혐 HSER + 있다",
+          "bbox": [
+            63.0,
+            952.0,
+            940.0,
+            1053.775
+          ],
+          "page_no": 8,
+          "confidence": 0.7140000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 40.71,
+          "char_spacing": 0.0,
+          "line_height": 81.42,
+          "translated_text": "This allows HSER+ to have visual landmarks\nsimilar to the original document.",
+          "extra": {}
+        },
+        {
+          "text": ": 을",
+          "bbox": [
+            599.0,
+            965.0,
+            706.0,
+            1044.35
+          ],
+          "page_no": 8,
+          "confidence": 0.46499999999999997,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 31.74,
+          "char_spacing": 0.0,
+          "line_height": 63.48,
+          "translated_text": ":\nsecond",
+          "extra": {}
+        },
+        {
+          "text": "표의 기 준 은 사 각 형 안에 글 자 가 있고 선 이 있 다 는 걸 기 준 으로 sy ox ra 모",
+          "bbox": [
+            61.0,
+            1327.0,
+            1087.0,
+            1383.55
+          ],
+          "page_no": 8,
+          "confidence": 0.8868,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.62,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The standard for the table is that there are\nletters and lines inside the square.",
+          "extra": {}
+        },
+        {
+          "text": "\"type\": \"table\",",
+          "bbox": [
+            195.0,
+            1609.0,
+            415.0,
+            1670.375
+          ],
+          "page_no": 8,
+          "confidence": 0.8049999999999999,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.55,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "\"type\":\n\"table\",",
+          "extra": {}
+        },
+        {
+          "text": "\"rows\": 4,",
+          "bbox": [
+            195.0,
+            1659.0,
+            341.0,
+            1724.175
+          ],
+          "page_no": 8,
+          "confidence": 0.83,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 26.07,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "\"rows\":\n4,",
+          "extra": {}
+        },
+        {
+          "text": "\"cols\": 3,",
+          "bbox": [
+            195.0,
+            1709.0,
+            329.0,
+            1768.825
+          ],
+          "page_no": 8,
+          "confidence": 0.94,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 23.93,
+          "char_spacing": 0.0,
+          "line_height": 44.16,
+          "translated_text": "\"cols\":\n3,",
+          "extra": {}
+        },
+        {
+          "text": "\"cells\": []",
+          "bbox": [
+            195.0,
+            1757.0,
+            327.0,
+            1817.375
+          ],
+          "page_no": 8,
+          "confidence": 0.88,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "\"cells\":\n[]",
+          "extra": {}
+        }
+      ],
+      "tables": [
+        {
+          "bbox": [
+            602,
+            851,
+            706,
+            931
+          ],
+          "page_no": 8,
+          "rows": 1,
+          "cols": 1,
+          "cells": []
+        }
+      ],
+      "equations": [
+        {
+          "bbox": [
+            63.0,
+            952.0,
+            940.0,
+            1012.0
+          ],
+          "page_no": 8,
+          "latex": "이를 통해 원본 문 서 와 유사한 시 각 적 표 혐 HSER + 있다",
+          "confidence": 0.7140000000000001
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_008_background.png"
+    },
+    {
+      "page_no": 9,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_009.png",
+      "text_spans": [
+        {
+          "text": "8. 가 < 재구성 Al <| Ell",
+          "bbox": [
+            61.0,
+            225.0,
+            505.0,
+            338.85
+          ],
+          "page_no": 9,
+          "confidence": 0.7671428571428571,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 30.36,
+          "char_spacing": 0.0,
+          "line_height": 60.72,
+          "translated_text": "8. A <\nreconstruction Al\n<| ell",
+          "extra": {}
+        },
+        {
+          "text": "o",
+          "bbox": [
+            474.0,
+            260.0,
+            505.0,
+            277.0
+          ],
+          "page_no": 9,
+          "confidence": 0.75,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 18.4,
+          "char_spacing": 0.0,
+          "line_height": 22.08,
+          "translated_text": "o",
+          "extra": {}
+        },
+        {
+          "text": "수식 스 영 역 은 일반 텍 스 트 와 구분 히 | 여 처 리 된 다.",
+          "bbox": [
+            61.0,
+            331.0,
+            738.0,
+            384.475
+          ],
+          "page_no": 9,
+          "confidence": 0.9233333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The formula area is separated from the\ngeneral text. It is processed.",
+          "extra": {}
+        },
+        {
+          "text": "예시: DLEGOREAM",
+          "bbox": [
+            62.0,
+            968.0,
+            804.0,
+            1008.0
+          ],
+          "page_no": 9,
+          "confidence": 0.935,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 44.849999999999994,
+          "char_spacing": 0.0,
+          "line_height": 53.82,
+          "translated_text": "Example: DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "]1%20×",
+          "bbox": [
+            58.0,
+            1028.0,
+            139.0,
+            1064.0
+          ],
+          "page_no": 9,
+          "confidence": 0.28,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 24.15,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "]1%20×",
+          "extra": {}
+        },
+        {
+          "text": "\\int x42 dx",
+          "bbox": [
+            60.0,
+            1147.0,
+            227.0,
+            1214.775
+          ],
+          "page_no": 9,
+          "confidence": 0.93,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 27.11,
+          "char_spacing": 0.0,
+          "line_height": 40.02,
+          "translated_text": "\\int x42\ndx",
+          "extra": {}
+        },
+        {
+          "text": "더 러 를 통 히 | 다시 생 성 된다.",
+          "bbox": [
+            388.0,
+            1201.0,
+            780.0,
+            1255.675
+          ],
+          "page_no": 9,
+          "confidence": 0.892,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.87,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Through some | is\ncreated again.",
+          "extra": {}
+        },
+        {
+          "text": "9. 텍스트 제거 및 배",
+          "bbox": [
+            61.0,
+            1353.0,
+            471.0,
+            1432.575
+          ],
+          "page_no": 9,
+          "confidence": 0.9480000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 31.83,
+          "char_spacing": 0.0,
+          "line_height": 60.72,
+          "translated_text": "9. Remove and\nfold text",
+          "extra": {}
+        },
+        {
+          "text": "o 서 이미지 위에 존 재 하는 Ell 스 트 를 제거",
+          "bbox": [
+            65.0,
+            1451.0,
+            661.0,
+            1507.6
+          ],
+          "page_no": 9,
+          "confidence": 0.9249999999999999,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.64,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "o Remove the Ell text that\nexists on the image.",
+          "extra": {}
+        },
+        {
+          "text": "Cc EW",
+          "bbox": [
+            61.0,
+            1467.0,
+            488.0,
+            1483.0
+          ],
+          "page_no": 9,
+          "confidence": 0.535,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 17.25,
+          "char_spacing": 0.0,
+          "line_height": 20.7,
+          "translated_text": "Cc EW",
+          "extra": {}
+        },
+        {
+          "text": "이미지",
+          "bbox": [
+            159.0,
+            1740.0,
+            251.0,
+            1772.0
+          ],
+          "page_no": 9,
+          "confidence": 0.95,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 32.86,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "image",
+          "extra": {}
+        },
+        {
+          "text": "그래프",
+          "bbox": [
+            157.0,
+            1799.0,
+            253.0,
+            1831.0
+          ],
+          "page_no": 9,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 34.29,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "graph",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            58.0,
+            1028.0,
+            139.0,
+            1064.0
+          ],
+          "page_no": 9,
+          "latex": "]1%20\\\\times",
+          "confidence": 0.28
+        },
+        {
+          "bbox": [
+            60.0,
+            1147.0,
+            227.0,
+            1177.0
+          ],
+          "page_no": 9,
+          "latex": "\\int x42 dx",
+          "confidence": 0.93
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_009_background.png"
+    },
+    {
+      "page_no": 10,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_010.png",
+      "text_spans": [
+        {
+          "text": "lH 00",
+          "bbox": [
+            157.0,
+            54.0,
+            218.0,
+            86.0
+          ],
+          "page_no": 10,
+          "confidence": 0.745,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 21.79,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "lH 00",
+          "extra": {}
+        },
+        {
+          "text": "3 Ow = = x0",
+          "bbox": [
+            157.0,
+            114.0,
+            293.0,
+            269.25
+          ],
+          "page_no": 10,
+          "confidence": 0.658,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "3 Ow =\n= x0",
+          "extra": {}
+        },
+        {
+          "text": "6 = 2 i = o 회",
+          "bbox": [
+            158.0,
+            173.0,
+            383.0,
+            232.075
+          ],
+          "page_no": 10,
+          "confidence": 0.5628571428571428,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 23.63,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "6 = 2 i = o\ntimes",
+          "extra": {}
+        },
+        {
+          "text": "ㅎ mu Ho iT = 페 |S Ny RO 꺼 mul a ‘ol a 퍼 + of 브 고",
+          "bbox": [
+            63.0,
+            280.0,
+            799.0,
+            340.85
+          ],
+          "page_no": 10,
+          "confidence": 0.49526315789473685,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 24.34,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "ㅎ mu Ho iT = pe |S Ny RO off mul a\n‘ol a per + of b go",
+          "extra": {}
+        },
+        {
+          "text": "—- o a1 oF 20 aK z= K 코 KK —|",
+          "bbox": [
+            63.0,
+            432.0,
+            442.0,
+            652.8
+          ],
+          "page_no": 10,
+          "confidence": 0.5472727272727272,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 88.32,
+          "char_spacing": 0.0,
+          "line_height": 176.64,
+          "translated_text": "—- o a1 oF 20 aK\nz= K ko KK —|",
+          "extra": {}
+        },
+        {
+          "text": "<x: 기 OH Oo 히비 of nm ue im mq 로",
+          "bbox": [
+            94.0,
+            530.0,
+            622.0,
+            685.25
+          ],
+          "page_no": 10,
+          "confidence": 0.3472727272727273,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "<x: ki OH Oo hibi\nof nm ue im mq",
+          "extra": {}
+        },
+        {
+          "text": "i oO = \"WP 나 oo HH So 0 18 ® = x 가 106 더 a",
+          "bbox": [
+            64.0,
+            585.0,
+            813.0,
+            657.7
+          ],
+          "page_no": 10,
+          "confidence": 0.53,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.08,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "i oO = \"WP I oo HH So 0 18 ® = x is\n106 more a",
+          "extra": {}
+        },
+        {
+          "text": "oF = KA",
+          "bbox": [
+            158.0,
+            700.0,
+            218.0,
+            855.25
+          ],
+          "page_no": 10,
+          "confidence": 0.5733333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "oF =\nK A",
+          "extra": {}
+        },
+        {
+          "text": "mM",
+          "bbox": [
+            157.0,
+            762.0,
+            187.0,
+            786.0
+          ],
+          "page_no": 10,
+          "confidence": 0.5,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 26.45,
+          "char_spacing": 0.0,
+          "line_height": 31.74,
+          "translated_text": "mm",
+          "extra": {}
+        },
+        {
+          "text": "3 2H =x",
+          "bbox": [
+            157.0,
+            814.0,
+            220.0,
+            952.0
+          ],
+          "page_no": 10,
+          "confidence": 0.5533333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 55.2,
+          "char_spacing": 0.0,
+          "line_height": 110.4,
+          "translated_text": "3 2H\n=x",
+          "extra": {}
+        },
+        {
+          "text": "09 「 or 2:",
+          "bbox": [
+            159.0,
+            870.0,
+            804.0,
+            1230.525
+          ],
+          "page_no": 10,
+          "confidence": 0.4675,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 144.21,
+          "char_spacing": 0.0,
+          "line_height": 288.42,
+          "translated_text": "09 「\nor 2:",
+          "extra": {}
+        },
+        {
+          "text": "A wl",
+          "bbox": [
+            157.0,
+            932.0,
+            220.0,
+            968.0
+          ],
+          "page_no": 10,
+          "confidence": 0.645,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 28.12,
+          "char_spacing": 0.0,
+          "line_height": 40.02,
+          "translated_text": "A wl",
+          "extra": {}
+        },
+        {
+          "text": "ㅁ J 몰 mW W q:",
+          "bbox": [
+            531.0,
+            972.0,
+            767.0,
+            1156.575
+          ],
+          "page_no": 10,
+          "confidence": 0.48666666666666664,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 73.83,
+          "char_spacing": 23.92,
+          "line_height": 147.66,
+          "translated_text": "ㅁ J mol\nmW W q:",
+          "extra": {}
+        },
+        {
+          "text": ":",
+          "bbox": [
+            715.0,
+            1005.0,
+            729.0,
+            1010.0
+          ],
+          "page_no": 10,
+          "confidence": 0.49,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 8.0,
+          "char_spacing": 0.0,
+          "line_height": 9.6,
+          "translated_text": null,
+          "extra": {}
+        },
+        {
+          "text": "ㅎ mull Ho iT = 페 매 ~ x 허 OF x wo! < w OR OF iol <r 여 삐 a",
+          "bbox": [
+            63.0,
+            1044.0,
+            932.0,
+            1106.575
+          ],
+          "page_no": 10,
+          "confidence": 0.6213636363636363,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 25.03,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Ha mull Ho iT = Pe mae ~ x huh OF x wo! < w\nOR OF iol <r yep a",
+          "extra": {}
+        },
+        {
+          "text": "- = ar = o 으 고 OK 자 O10 ol 더 ar",
+          "bbox": [
+            63.0,
+            1192.0,
+            602.0,
+            1269.625
+          ],
+          "page_no": 10,
+          "confidence": 0.566923076923077,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 31.05,
+          "char_spacing": 0.0,
+          "line_height": 62.1,
+          "translated_text": "- = ar = o and OK now\nO10 ol more ar",
+          "extra": {}
+        },
+        {
+          "text": "HR oF zl fa 멋 페이 80 하제 om 뻐 덩 호 JJ RO 을 40 K or oo 0 a 패 KIO ㅎ it 고 ral",
+          "bbox": [
+            62.0,
+            1290.0,
+            1064.0,
+            1445.25
+          ],
+          "page_no": 10,
+          "confidence": 0.5603703703703704,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "HR oF zl fa cool pay 80 haje om pupdeong ho JJ RO do\n40 K or oo 0 a lose KIO heh it and ral",
+          "extra": {}
+        },
+        {
+          "text": "00 50 a 므 더 ey ot",
+          "bbox": [
+            94.0,
+            1353.0,
+            423.0,
+            1426.425
+          ],
+          "page_no": 10,
+          "confidence": 0.58,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.37,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "00 50 a m more\ney ot",
+          "extra": {}
+        },
+        {
+          "text": "Mm |! K mm 은 배 기",
+          "bbox": [
+            157.0,
+            1464.0,
+            370.0,
+            1619.25
+          ],
+          "page_no": 10,
+          "confidence": 0.64,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 62.1,
+          "char_spacing": 0.0,
+          "line_height": 124.2,
+          "translated_text": "Mm |! K mm\nis exhaust",
+          "extra": {}
+        },
+        {
+          "text": "mK yok _ 축전 pg",
+          "bbox": [
+            157.0,
+            1523.0,
+            328.0,
+            1911.125
+          ],
+          "page_no": 10,
+          "confidence": 0.404,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 103.5,
+          "char_spacing": 0.0,
+          "line_height": 207.0,
+          "translated_text": "mK yok _\ncongratulatory\npg",
+          "extra": {}
+        },
+        {
+          "text": "ㅁ KW 기 ps",
+          "bbox": [
+            161.0,
+            1582.0,
+            387.0,
+            1738.975
+          ],
+          "page_no": 10,
+          "confidence": 0.5125,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 62.79,
+          "char_spacing": 0.0,
+          "line_height": 125.58,
+          "translated_text": "ㅁKW\nKi ps",
+          "extra": {}
+        },
+        {
+          "text": "OW",
+          "bbox": [
+            157.0,
+            1598.0,
+            187.0,
+            1608.0
+          ],
+          "page_no": 10,
+          "confidence": 0.0,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 10.35,
+          "char_spacing": 0.0,
+          "line_height": 12.42,
+          "translated_text": "OW",
+          "extra": {}
+        },
+        {
+          "text": "<| ㅁ 두 yy 06 ar Kw —",
+          "bbox": [
+            157.0,
+            1639.0,
+            434.0,
+            1877.05
+          ],
+          "page_no": 10,
+          "confidence": 0.49875,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 95.22,
+          "char_spacing": 0.0,
+          "line_height": 190.44,
+          "translated_text": "<| ㅁ two yy\n06 ar Kw —",
+          "extra": {}
+        },
+        {
+          "text": "고",
+          "bbox": [
+            340.0,
+            1660.0,
+            357.0,
+            1668.0
+          ],
+          "page_no": 10,
+          "confidence": 0.81,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 8.049999999999999,
+          "char_spacing": 0.0,
+          "line_height": 9.66,
+          "translated_text": "go",
+          "extra": {}
+        },
+        {
+          "text": "ㅎ null Ho = 「 위 © ur 만 & a 으 S OK 1K) 5 쩌 <4 or iow 가 of o 고",
+          "bbox": [
+            63.0,
+            1753.0,
+            931.0,
+            1809.975
+          ],
+          "page_no": 10,
+          "confidence": 0.5358333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.79,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "ㅎ null Ho = 「 above © ur only & a u S OK\n1K) 5 je <4 or iow of o and",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [
+        {
+          "bbox": [
+            157.0,
+            114.0,
+            293.0,
+            205.0
+          ],
+          "page_no": 10,
+          "latex": "3 Ow = = x0",
+          "confidence": 0.658
+        },
+        {
+          "bbox": [
+            158.0,
+            173.0,
+            383.0,
+            205.0
+          ],
+          "page_no": 10,
+          "latex": "6 = 2 i = o 회",
+          "confidence": 0.5628571428571428
+        },
+        {
+          "bbox": [
+            63.0,
+            280.0,
+            799.0,
+            320.0
+          ],
+          "page_no": 10,
+          "latex": "ㅎ mu Ho iT = 페 |S Ny RO 꺼 mul a ‘ol a 퍼 + of 브 고",
+          "confidence": 0.49526315789473685
+        },
+        {
+          "bbox": [
+            63.0,
+            432.0,
+            442.0,
+            561.0
+          ],
+          "page_no": 10,
+          "latex": "—- o a1 oF 20 aK z= K 코 KK —|",
+          "confidence": 0.5472727272727272
+        },
+        {
+          "bbox": [
+            64.0,
+            585.0,
+            813.0,
+            623.0
+          ],
+          "page_no": 10,
+          "latex": "i oO = \"WP 나 oo HH So 0 18 ® = x 가 106 더 a",
+          "confidence": 0.53
+        },
+        {
+          "bbox": [
+            158.0,
+            700.0,
+            218.0,
+            791.0
+          ],
+          "page_no": 10,
+          "latex": "oF = KA",
+          "confidence": 0.5733333333333334
+        },
+        {
+          "bbox": [
+            157.0,
+            814.0,
+            220.0,
+            899.0
+          ],
+          "page_no": 10,
+          "latex": "3 2H =x",
+          "confidence": 0.5533333333333333
+        },
+        {
+          "bbox": [
+            63.0,
+            1044.0,
+            932.0,
+            1081.0
+          ],
+          "page_no": 10,
+          "latex": "ㅎ mull Ho iT = 페 매 ~ x 허 OF x wo! < w OR OF iol <r 여 삐 a",
+          "confidence": 0.6213636363636363
+        },
+        {
+          "bbox": [
+            63.0,
+            1192.0,
+            602.0,
+            1241.0
+          ],
+          "page_no": 10,
+          "latex": "- = ar = o 으 고 OK 자 O10 ol 더 ar",
+          "confidence": 0.566923076923077
+        },
+        {
+          "bbox": [
+            157.0,
+            1523.0,
+            328.0,
+            1674.0
+          ],
+          "page_no": 10,
+          "latex": "mK yok _ 축전 pg",
+          "confidence": 0.404
+        },
+        {
+          "bbox": [
+            63.0,
+            1753.0,
+            931.0,
+            1785.0
+          ],
+          "page_no": 10,
+          "latex": "ㅎ null Ho = 「 위 © ur 만 & a 으 S OK 1K) 5 쩌 <4 or iow 가 of o 고",
+          "confidence": 0.5358333333333333
+        }
+      ],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_010_background.png"
+    },
+    {
+      "page_no": 11,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_011.png",
+      "text_spans": [
+        {
+          "text": "12. 구현 단계",
+          "bbox": [
+            63.0,
+            128.0,
+            336.0,
+            239.26250000000002
+          ],
+          "page_no": 11,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.67,
+          "char_spacing": 0.0,
+          "line_height": 59.34,
+          "translated_text": "12.\nImplementation\nPhase",
+          "extra": {}
+        },
+        {
+          "text": "될",
+          "bbox": [
+            448.0,
+            205.0,
+            467.0,
+            276.0
+          ],
+          "page_no": 11,
+          "confidence": 0.95,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 41.4,
+          "translated_text": "be",
+          "extra": {}
+        },
+        {
+          "text": "DTRS 느 다음 단 계 로 구 & 현 A 있 디 t.",
+          "bbox": [
+            62.0,
+            222.0,
+            598.0,
+            272.0
+          ],
+          "page_no": 11,
+          "confidence": 0.8261538461538461,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "DTRS is the next step.",
+          "extra": {}
+        },
+        {
+          "text": "[때 수",
+          "bbox": [
+            155.0,
+            244.0,
+            507.0,
+            258.0
+          ],
+          "page_no": 11,
+          "confidence": 0.7050000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 14.95,
+          "char_spacing": 0.0,
+          "line_height": 17.94,
+          "translated_text": "[When can",
+          "extra": {}
+        },
+        {
+          "text": "단계 1",
+          "bbox": [
+            63.0,
+            370.0,
+            148.0,
+            433.25
+          ],
+          "page_no": 11,
+          "confidence": 0.95,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 25.3,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n1",
+          "extra": {}
+        },
+        {
+          "text": "OCR J| nr i or",
+          "bbox": [
+            62.0,
+            448.0,
+            278.0,
+            516.875
+          ],
+          "page_no": 11,
+          "confidence": 0.6020000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 27.55,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "OCR J| nr\ni or",
+          "extra": {}
+        },
+        {
+          "text": "단계 2",
+          "bbox": [
+            63.0,
+            592.0,
+            154.0,
+            659.7
+          ],
+          "page_no": 11,
+          "confidence": 0.895,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 27.08,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n2",
+          "extra": {}
+        },
+        {
+          "text": "레이아 OK He",
+          "bbox": [
+            64.0,
+            670.0,
+            265.0,
+            702.0
+          ],
+          "page_no": 11,
+          "confidence": 0.7866666666666666,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Leia OK He",
+          "extra": {}
+        },
+        {
+          "text": "단계 3",
+          "bbox": [
+            63.0,
+            815.0,
+            153.0,
+            881.975
+          ],
+          "page_no": 11,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 26.79,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n3",
+          "extra": {}
+        },
+        {
+          "text": "RO 퍼 ord",
+          "bbox": [
+            95.0,
+            892.0,
+            197.0,
+            945.475
+          ],
+          "page_no": 11,
+          "confidence": 0.5633333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "RO fur\nord",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            529.0,
+            972.0,
+            804.0,
+            1008.0
+          ],
+          "page_no": 11,
+          "confidence": 0.91,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 40.25,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "BORAT ORY",
+          "bbox": [
+            615.0,
+            1005.0,
+            751.0,
+            1012.0
+          ],
+          "page_no": 11,
+          "confidence": 0.0,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 8.0,
+          "char_spacing": 0.0,
+          "line_height": 9.6,
+          "translated_text": "BORAT ORY",
+          "extra": {}
+        },
+        {
+          "text": "단계 4",
+          "bbox": [
+            63.0,
+            1037.0,
+            155.0,
+            1105.45
+          ],
+          "page_no": 11,
+          "confidence": 0.9199999999999999,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 27.38,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n4",
+          "extra": {}
+        },
+        {
+          "text": "0",
+          "bbox": [
+            169.0,
+            1115.0,
+            197.0,
+            1147.0
+          ],
+          "page_no": 11,
+          "confidence": 0.76,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "0",
+          "extra": {}
+        },
+        {
+          "text": "단계 5",
+          "bbox": [
+            63.0,
+            1259.0,
+            154.0,
+            1326.7
+          ],
+          "page_no": 11,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 27.08,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n5",
+          "extra": {}
+        },
+        {
+          "text": "ar 재구성",
+          "bbox": [
+            94.0,
+            1337.0,
+            230.0,
+            1390.475
+          ],
+          "page_no": 11,
+          "confidence": 0.685,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "ar\nreconstruction",
+          "extra": {}
+        },
+        {
+          "text": "단계 6",
+          "bbox": [
+            63.0,
+            1481.0,
+            154.0,
+            1548.7
+          ],
+          "page_no": 11,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 27.08,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Step\n6",
+          "extra": {}
+        },
+        {
+          "text": "HU 삐 KE 0 ol Ho 10",
+          "bbox": [
+            61.0,
+            1559.0,
+            340.0,
+            1618.3
+          ],
+          "page_no": 11,
+          "confidence": 0.6757142857142858,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 23.72,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "HU beep KE 0\nol Ho 10",
+          "extra": {}
+        },
+        {
+          "text": "최종 단 계 에서는",
+          "bbox": [
+            62.0,
+            1618.0,
+            297.0,
+            1676.275
+          ],
+          "page_no": 11,
+          "confidence": 0.915,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 23.31,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "In the\nfinal stage",
+          "extra": {}
+        },
+        {
+          "text": "13. 결론",
+          "bbox": [
+            63.0,
+            1766.0,
+            234.0,
+            1840.175
+          ],
+          "page_no": 11,
+          "confidence": 0.96,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.67,
+          "char_spacing": 0.0,
+          "line_height": 59.34,
+          "translated_text": "13.\nConclusion",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_011_background.png"
+    },
+    {
+      "page_no": 12,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_012.png",
+      "text_spans": [
+        {
+          "text": "본 APE OCR 기반 번 역 을 넘어 문서 구조 전 체 를 보 존 하 는 DTRS(Document",
+          "bbox": [
+            61.0,
+            65.0,
+            1221.0,
+            113.0
+          ],
+          "page_no": 12,
+          "confidence": 0.8961111111111111,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 39.08,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Beyond this APE OCR-based translation, DTRS (Document",
+          "extra": {}
+        },
+        {
+          "text": "Translation and Reconstruction System)S 제 안 하였다.",
+          "bbox": [
+            60.0,
+            128.0,
+            932.0,
+            201.45
+          ],
+          "page_no": 12,
+          "confidence": 0.85,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.38,
+          "char_spacing": 0.0,
+          "line_height": 49.68,
+          "translated_text": "Translation and Reconstruction\nSystem)S was proposed.",
+          "extra": {}
+        },
+        {
+          "text": "텍스트, 폰트, , 수식,",
+          "bbox": [
+            312.0,
+            167.0,
+            625.0,
+            238.0
+          ],
+          "page_no": 12,
+          "confidence": 0.9425,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 25.41,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "Text, font, ,\nformula,",
+          "extra": {}
+        },
+        {
+          "text": "제 안 된 시 스 템 은 표 그래프 및 시각적",
+          "bbox": [
+            61.0,
+            188.0,
+            883.0,
+            261.4
+          ],
+          "page_no": 12,
+          "confidence": 0.9418181818181818,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 29.36,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "The proposed system uses tabular graphs\nand visual",
+          "extra": {}
+        },
+        {
+          "text": ",o, 및 시각적",
+          "bbox": [
+            490.0,
+            206.0,
+            883.0,
+            222.0
+          ],
+          "page_no": 12,
+          "confidence": 0.7033333333333333,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 17.25,
+          "char_spacing": 0.0,
+          "line_height": 20.7,
+          "translated_text": ",o, and visual",
+          "extra": {}
+        },
+        {
+          "text": "하여 번역 후에도 원 본 과 유사한 형 태 의 문 서 를 생 성 할 수 있다.",
+          "bbox": [
+            62.0,
+            247.0,
+            973.0,
+            300.475
+          ],
+          "page_no": 12,
+          "confidence": 0.9400000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Thus, even after translation, a document similar\nto the original can be created.",
+          "extra": {}
+        },
+        {
+          "text": "추정, 복원,",
+          "bbox": [
+            512.0,
+            286.0,
+            1002.0,
+            356.0
+          ],
+          "page_no": 12,
+          "confidence": 0.9450000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 36.46,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "estimation, restoration,",
+          "extra": {}
+        },
+        {
+          "text": "특히 문자 픽셀 기반 폰트 크기 문자 시작 좌표 기반 폭 구조 객체 기반",
+          "bbox": [
+            61.0,
+            306.0,
+            1232.0,
+            362.925
+          ],
+          "page_no": 12,
+          "confidence": 0.9564285714285715,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.77,
+          "char_spacing": 0.0,
+          "line_height": 45.54,
+          "translated_text": "Specifically, character pixel-based font size character start\ncoordinate-based width structure object-based",
+          "extra": {}
+        },
+        {
+          "text": "1816* 기존",
+          "bbox": [
+            267.0,
+            345.0,
+            849.0,
+            415.0
+          ],
+          "page_no": 12,
+          "confidence": 0.625,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "1816* existing",
+          "extra": {}
+        },
+        {
+          "text": "표 재생성 및 기 반 수식 복원 기 법 을 통해 OCR 번역 시 스 템 의 한 계 를",
+          "bbox": [
+            61.0,
+            365.0,
+            1243.0,
+            418.475
+          ],
+          "page_no": 12,
+          "confidence": 0.9045,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Limitations of the OCR translation system are overcome through table\nregeneration and base formula restoration techniques.",
+          "extra": {}
+        },
+        {
+          "text": "극 복 할 수 있다.",
+          "bbox": [
+            61.0,
+            425.0,
+            282.0,
+            478.475
+          ],
+          "page_no": 12,
+          "confidence": 0.944,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "It can be\novercome.",
+          "extra": {}
+        },
+        {
+          "text": "모델, PDF",
+          "bbox": [
+            644.0,
+            462.0,
+            866.0,
+            532.0
+          ],
+          "page_no": 12,
+          "confidence": 0.79,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 22.77,
+          "char_spacing": 51.71,
+          "line_height": 45.54,
+          "translated_text": "Model,\nPDF",
+          "extra": {}
+        },
+        {
+          "text": "향후 연 구 에서는 YAY 기반 폰트 생성 벡터 복원 기술 및 다국어 레이",
+          "bbox": [
+            62.0,
+            484.0,
+            1239.0,
+            537.475
+          ],
+          "page_no": 12,
+          "confidence": 0.9142857142857144,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "Future research will focus on YAY-based font generation vector\nrestoration technology and multilingual layout.",
+          "extra": {}
+        },
+        {
+          "text": "하여 문서",
+          "bbox": [
+            386.0,
+            522.0,
+            622.0,
+            593.0
+          ],
+          "page_no": 12,
+          "confidence": 0.9450000000000001,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "to document",
+          "extra": {}
+        },
+        {
+          "text": "아웃 적응 모 델 을 결 합 완전한 복 원 형 번역 프 레 임 워 크 로 발 전 시킬 수 있",
+          "bbox": [
+            62.0,
+            543.0,
+            1246.0,
+            596.475
+          ],
+          "page_no": 12,
+          "confidence": 0.9304347826086957,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "By combining the out-adaptation model, it can be developed into a\ncomplete restorative translation framework.",
+          "extra": {}
+        },
+        {
+          "text": "기 대 된다",
+          "bbox": [
+            207.0,
+            577.0,
+            341.0,
+            648.0
+          ],
+          "page_no": 12,
+          "confidence": 0.9433333333333334,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 21.39,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "I'm looking\nforward to it",
+          "extra": {}
+        },
+        {
+          "text": "을 것으로",
+          "bbox": [
+            61.0,
+            602.0,
+            340.0,
+            634.0
+          ],
+          "page_no": 12,
+          "confidence": 0.95,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "NotoSansCJKkr-Regular",
+          "font_size": 35.65,
+          "char_spacing": 0.0,
+          "line_height": 42.78,
+          "translated_text": "As expected",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            531.0,
+            972.0,
+            804.0,
+            1008.0
+          ],
+          "page_no": 12,
+          "confidence": 0.91,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 40.25,
+          "char_spacing": 0.0,
+          "line_height": 48.3,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        }
+      ],
+      "tables": [],
+      "equations": [],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_012_background.png"
+    },
+    {
+      "page_no": 13,
+      "width": 1334,
+      "height": 1885,
+      "image_path": "/home/user/dtrs_impl/sample_run/page_013.png",
+      "text_spans": [
+        {
+          "text": "BY",
+          "bbox": [
+            451.0,
+            740.0,
+            867.0,
+            985.0
+          ],
+          "page_no": 13,
+          "confidence": 0.63,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 280.59999999999997,
+          "char_spacing": 0.0,
+          "line_height": 336.72,
+          "translated_text": "BY",
+          "extra": {}
+        },
+        {
+          "text": "DLEGOREAM",
+          "bbox": [
+            374.0,
+            974.0,
+            953.0,
+            1055.0
+          ],
+          "page_no": 13,
+          "confidence": 0.91,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 92.0,
+          "char_spacing": 0.0,
+          "line_height": 110.4,
+          "translated_text": "DLEGOREAM",
+          "extra": {}
+        },
+        {
+          "text": "—LABORATORY —",
+          "bbox": [
+            419.0,
+            1071.0,
+            914.0,
+            1103.0
+          ],
+          "page_no": 13,
+          "confidence": 0.75,
+          "rotation": 0.0,
+          "color": [
+            0,
+            0,
+            0
+          ],
+          "font_name": "Helvetica",
+          "font_size": 20.7,
+          "char_spacing": 0.0,
+          "line_height": 24.84,
+          "translated_text": "—LABORATORY—",
+          "extra": {}
+        }
+      ],
+      "tables": [
+        {
+          "bbox": [
+            541,
+            747,
+            806,
+            976
+          ],
+          "page_no": 13,
+          "rows": 1,
+          "cols": 1,
+          "cells": [
+            {
+              "row": 0,
+              "col": 0,
+              "bbox": [
+                451.0,
+                740.0,
+                867.0,
+                985.0
+              ],
+              "text": "BY"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "graphics": [],
+      "background_path": "/home/user/dtrs_impl/sample_run/page_013_background.png"
+    }
+  ],
+  "metadata": {
+    "page_count": 13
+  }
+}

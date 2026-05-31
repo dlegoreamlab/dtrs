@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dtrs-prototype"
+version = "0.1.0"
+description = "Document Translation and Reconstruction System prototype"
+readme = false
+requires-python = ">=3.10"
+dependencies = [
+  "opencv-python>=4.10.0",
+  "numpy>=1.26.0",
+  "Pillow>=10.3.0",
+  "PyMuPDF>=1.24.0",
+  "reportlab>=4.2.0",
+  "deep-translator>=1.11.4"
+]
+
+[project.scripts]
+dtrs = "dtrs.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["dtrs*"]
